@@ -2,6 +2,7 @@ const User = require('../../models/User.model');
 const Chat = require('../../models/Chat.model');
 
 const sendMessage = ({message, from, to}) => {
+   // console.log(message);
     User.findOne({_id:from}, (err, user) => {
         if(err) return err;
         else if(!user) return null;

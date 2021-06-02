@@ -8,7 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/server" />
   </component>
   <component name="ProjectId" id="1sweRjUUGGZ6rOt5rUzAXmCX8XY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,7 +19,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../data_structure_c" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -47,14 +47,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1621943281658">
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1622586609399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1621943281658" />
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1621945556522">
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1622586609399" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1622185535131">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1621945556522" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1622185535131" />
     <state x="364" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1621941091010">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

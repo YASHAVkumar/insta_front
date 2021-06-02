@@ -4,6 +4,7 @@ const Chat = require('../../models/Chat.model');
 const chatsRouter = require('./chatsRouter');
 
 router.get('/info/:user', (req, res) => {
+
     const user = req.params.user;
     let Chats = [];
     const chatInfo = [];
